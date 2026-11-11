@@ -14,7 +14,8 @@
 ## Course Progress
 
 - [x] **L00 --- Start:** Installation, Packet Tracer Basics, Entry Assessment
-- [ ] **L01 --- Cisco IOS Command-Line Language:** (Coming Next)
+- [x] **L01 --- Network Components, Topology, and Architecture:** Star topology lab, standard naming convention
+- [ ] **L02 --- Cisco IOS Command-Line Language:** (Coming Next)
 
 ---
 
